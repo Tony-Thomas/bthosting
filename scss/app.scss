@@ -50,7 +50,11 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
+// Font-Awesome (Bower)
+@import "../bower_components/font-awesome-sass/assets/stylesheets/font-awesome";
+
 // Custom
 @import "navigation";
 @import "showcase";
 @import "domain-search";
+@import "packages";
