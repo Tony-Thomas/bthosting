@@ -46,6 +46,7 @@
 // CUTOM VARIABLES
 $primary: #0f74a0;
 $secondary: #9bc33f;
+$extra: #fb9f33;
 
 // 1. Global
 // ---------
@@ -59,6 +60,7 @@ $foundation-palette: (
   success: #3adb76,
   warning: #ffae00,
   alert: #cc4b37,
+  extra:$extra,
 );
 $light-gray: #f4f4f4;
 $medium-gray: #494b4c;
