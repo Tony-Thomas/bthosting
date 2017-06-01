@@ -1,0 +1,14 @@
+footer {
+    padding: 40px 0;
+}
+
+.trust {
+    height: 190px;
+    position: relative;
+
+    img {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
